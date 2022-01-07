@@ -1,0 +1,16 @@
+{
+  "name": "product-catalog-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-catalog": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "ean-generator": "^0.0.8"
+  }
+}
